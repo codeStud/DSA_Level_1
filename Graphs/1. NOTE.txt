@@ -1,0 +1,13 @@
+
+
+Implementation of "Shortest Path in weights" (Dijksta algo) is CORRECT.
+
+There is problem in test cases when a vertex has more than one path to be reached WITH SAME WEIGHTS.
+
+My code:-
+        If vertex "v" has more than 1 path from source WITH SAME WEIGHTS, 
+        print the path with LESSER number of edges.
+
+Test Case Output:
+        If vertex "v" has more than 1 path from source WITH SAME WEIGHTS, 
+        Sometimes it prints path with MORE number of edges, sometimes with LESSER number of edges.

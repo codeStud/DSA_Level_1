@@ -1,0 +1,13 @@
+In the questions of Binary Search Tree -
+
+The code to construct BST is same as that of construction of Binary Tree. 
+The input is passed accordingly to make the output look like Binary Tree but it's not actually the construct function
+of BST.
+
+
+
+IN MY IMPLEMENTATIONS - 
+
+I've kept the code to construct BST intact and correct (different from construct Binary Tree code)
+So, the output BST generated is different.
+But all the implemented SOLUTIONS of BST are CORRECT!!
